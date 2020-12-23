@@ -1,0 +1,2 @@
+- search: pd.testing
+  replacement: tm
